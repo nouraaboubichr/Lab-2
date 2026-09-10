@@ -7,7 +7,13 @@
 * La longueur maximale présente dans `dp` correspond à la réponse.
 * La complexité de cette solution est **O(n²)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
 
 # Exercice 2 — Tableau pivot
 
@@ -18,6 +24,14 @@
 * Il suffit ensuite de vérifier ces deux conditions pour chaque position.
 * Grâce à cette méthode, l'algorithme fonctionne en **O(n)** au lieu de **O(n²)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
+
 # Exercice 3 — Construction d’une matrice en spirale
 
 * L’objectif est de remplir une matrice carrée avec les nombres de `1` jusqu’à `n²` en formant une spirale.
@@ -27,6 +41,14 @@
 * Le même processus est répété jusqu’à ce que toutes les cases soient remplies.
 * Chaque case est visitée une seule fois, donc la complexité est **O(n²)** pour une matrice `n × n`.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042424.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042507.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042525.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050947.png" />
+
 # Exercice 4 — Plus grand rectangle composé de 1
 
 * On travaille sur une matrice contenant uniquement des `0` et des `1` et on cherche le rectangle de `1` ayant la plus grande surface.
@@ -35,6 +57,20 @@
 * Une pile est utilisée pour déterminer efficacement la largeur de chaque rectangle possible.
 * On répète le calcul pour toutes les lignes et on conserve le rectangle ayant la plus grande surface.
 * Cette technique permet d'obtenir une solution efficace en **O(R × C)** pour une matrice de `R` lignes et `C` colonnes.
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042942.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042942.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043028.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043047.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043112.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043122.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051002.png" />
 
 # Exercice 5 — Vérification d’une permutation circulaire
 
@@ -46,6 +82,16 @@
 * L’utilisation de `(position + k) % n` permet de gérer facilement le passage de la dernière case vers la première.
 * L'algorithme possède une complexité de **O(n)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043925.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043948.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044005.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044019.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051015.png" />
+
 # Exercice 6 — Sous-tableau de somme maximale (Kadane)
 
 * Contrairement à la LIS, ici les éléments sélectionnés doivent être **consécutifs**.
@@ -55,6 +101,13 @@
 * Si continuer produit une moins bonne somme, on repart à partir de l'élément courant.
 * Cette méthode permet de parcourir le tableau une seule fois.
 * La complexité est donc **O(n)** avec seulement quelques variables supplémentaires.
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044639.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044654.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051028.png" />
+
 
 # Exercice 7 — Élément majoritaire
 
@@ -66,6 +119,14 @@
 * Si son nombre d'apparitions dépasse `n / 2`, il est bien majoritaire.
 * Cette méthode fonctionne en **O(n)** avec une utilisation de mémoire supplémentaire **O(1)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045201.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045220.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045233.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051041.png" />
+
 # Exercice 8 — Recherche des nombres absents
 
 * On considère un tableau dont les valeurs devraient appartenir à l'ensemble `1` à `n`, mais certains nombres peuvent manquer et d'autres peuvent apparaître plusieurs fois.
@@ -75,6 +136,14 @@
 * Chaque valeur qui n'a pas été marquée correspond à un nombre absent.
 * Les doublons ne posent pas de problème, car un nombre reste simplement marqué comme présent.
 * La méthode nécessite deux parcours et fonctionne en **O(n)**, avec **O(n)** mémoire supplémentaire.
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045620.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045635.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045645.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051053.png" />
 
 # Exercice 9 — Différence entre les deux diagonales
 
@@ -86,6 +155,13 @@
 * Le résultat représente l'écart entre les deux diagonales.
 * Comme seuls les éléments des diagonales sont parcourus, la complexité est **O(n)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050114.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050124.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051107.png" />
+
+
 # Exercice 10 — Vérification d’un carré magique 3×3
 
 * Le programme doit déterminer si une matrice `3 × 3` possède la propriété d'un carré magique.
@@ -96,3 +172,14 @@
 * Dès qu'une somme est différente de la référence, la matrice peut être déclarée non magique.
 * Si toutes les vérifications sont réussies, la fonction retourne `true` et la matrice est considérée comme magique.
 * Dans cet exercice, on vérifie uniquement l'égalité des sommes ; on n'impose pas nécessairement la présence des nombres `1` à `9` sans répétition.
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050352.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050412.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050431.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050441.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051122.png" />
+
