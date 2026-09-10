@@ -7,9 +7,7 @@
 * La longueur maximale présente dans `dp` correspond à la réponse.
 * La complexité de cette solution est **O(n²)**.
 
-<img width="1270" height="674" alt="1" src="https://github.com/user-attachments/assets/9347c118-ff4c-424a-a96f-4e59c78a258a" />
 
-<img width="1280" height="675" alt="12" src="https://github.com/user-attachments/assets/71dc019c-9d85-4839-9711-cbb8497af211" />
 
 # Exercice 2 — Tableau pivot
 
