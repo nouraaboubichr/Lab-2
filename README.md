@@ -74,6 +74,14 @@
 * L’utilisation de `(position + k) % n` permet de gérer facilement le passage de la dernière case vers la première.
 * L'algorithme possède une complexité de **O(n)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043925.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043948.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044005.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044019.png" />
+
 # Exercice 6 — Sous-tableau de somme maximale (Kadane)
 
 * Contrairement à la LIS, ici les éléments sélectionnés doivent être **consécutifs**.
