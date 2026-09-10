@@ -141,6 +141,11 @@
 * Le résultat représente l'écart entre les deux diagonales.
 * Comme seuls les éléments des diagonales sont parcourus, la complexité est **O(n)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050114.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050124.png" />
+
+
 # Exercice 10 — Vérification d’un carré magique 3×3
 
 * Le programme doit déterminer si une matrice `3 × 3` possède la propriété d'un carré magique.
