@@ -22,11 +22,11 @@
 * Il suffit ensuite de vérifier ces deux conditions pour chaque position.
 * Grâce à cette méthode, l'algorithme fonctionne en **O(n)** au lieu de **O(n²)**.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
 
 # Exercice 3 — Construction d’une matrice en spirale
 
@@ -37,6 +37,12 @@
 * Le même processus est répété jusqu’à ce que toutes les cases soient remplies.
 * Chaque case est visitée une seule fois, donc la complexité est **O(n²)** pour une matrice `n × n`.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+
 # Exercice 4 — Plus grand rectangle composé de 1
 
 * On travaille sur une matrice contenant uniquement des `0` et des `1` et on cherche le rectangle de `1` ayant la plus grande surface.
@@ -45,6 +51,12 @@
 * Une pile est utilisée pour déterminer efficacement la largeur de chaque rectangle possible.
 * On répète le calcul pour toutes les lignes et on conserve le rectangle ayant la plus grande surface.
 * Cette technique permet d'obtenir une solution efficace en **O(R × C)** pour une matrice de `R` lignes et `C` colonnes.
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
 
 # Exercice 5 — Vérification d’une permutation circulaire
 
