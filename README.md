@@ -124,6 +124,13 @@
 * Les doublons ne posent pas de problème, car un nombre reste simplement marqué comme présent.
 * La méthode nécessite deux parcours et fonctionne en **O(n)**, avec **O(n)** mémoire supplémentaire.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045620.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045635.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045645.png" />
+
+
 # Exercice 9 — Différence entre les deux diagonales
 
 * On travaille avec une matrice carrée et on calcule séparément les sommes de ses deux diagonales.
