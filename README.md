@@ -13,6 +13,8 @@
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+
 # Exercice 2 — Tableau pivot
 
 * On cherche les éléments qui peuvent être considérés comme des pivots du tableau.
@@ -28,6 +30,8 @@
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
+
 # Exercice 3 — Construction d’une matrice en spirale
 
 * L’objectif est de remplir une matrice carrée avec les nombres de `1` jusqu’à `n²` en formant une spirale.
@@ -42,6 +46,8 @@
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042507.png" />
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042525.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050947.png" />
 
 # Exercice 4 — Plus grand rectangle composé de 1
 
@@ -64,6 +70,8 @@
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043122.png" />
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051002.png" />
+
 # Exercice 5 — Vérification d’une permutation circulaire
 
 * On cherche à savoir si un tableau représente une rotation de la suite `1, 2, 3, ..., n`.
@@ -82,6 +90,8 @@
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044019.png" />
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051015.png" />
+
 # Exercice 6 — Sous-tableau de somme maximale (Kadane)
 
 * Contrairement à la LIS, ici les éléments sélectionnés doivent être **consécutifs**.
@@ -95,6 +105,8 @@
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044639.png" />
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044654.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051028.png" />
 
 
 # Exercice 7 — Élément majoritaire
@@ -113,6 +125,7 @@
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045233.png" />
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051041.png" />
 
 # Exercice 8 — Recherche des nombres absents
 
@@ -130,6 +143,7 @@
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045645.png" />
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051053.png" />
 
 # Exercice 9 — Différence entre les deux diagonales
 
@@ -144,6 +158,8 @@
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050114.png" />
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050124.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051107.png" />
 
 
 # Exercice 10 — Vérification d’un carré magique 3×3
@@ -164,3 +180,6 @@
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050431.png" />
 
 <img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050441.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 051122.png" />
+
