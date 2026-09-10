@@ -52,11 +52,17 @@
 * On répète le calcul pour toutes les lignes et on conserve le rectangle ayant la plus grande surface.
 * Cette technique permet d'obtenir une solution efficace en **O(R × C)** pour une matrice de `R` lignes et `C` colonnes.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042942.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042942.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043028.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043047.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043112.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043122.png" />
 
 # Exercice 5 — Vérification d’une permutation circulaire
 
