@@ -107,6 +107,13 @@
 * Si son nombre d'apparitions dépasse `n / 2`, il est bien majoritaire.
 * Cette méthode fonctionne en **O(n)** avec une utilisation de mémoire supplémentaire **O(1)**.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045201.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045220.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 045233.png" />
+
+
 # Exercice 8 — Recherche des nombres absents
 
 * On considère un tableau dont les valeurs devraient appartenir à l'ensemble `1` à `n`, mais certains nombres peuvent manquer et d'autres peuvent apparaître plusieurs fois.
