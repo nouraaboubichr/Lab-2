@@ -37,11 +37,11 @@
 * Le même processus est répété jusqu’à ce que toutes les cases soient remplies.
 * Chaque case est visitée une seule fois, donc la complexité est **O(n²)** pour une matrice `n × n`.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042424.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042507.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 042525.png" />
 
 # Exercice 4 — Plus grand rectangle composé de 1
 
