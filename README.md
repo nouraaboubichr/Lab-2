@@ -156,3 +156,11 @@
 * Dès qu'une somme est différente de la référence, la matrice peut être déclarée non magique.
 * Si toutes les vérifications sont réussies, la fonction retourne `true` et la matrice est considérée comme magique.
 * Dans cet exercice, on vérifie uniquement l'égalité des sommes ; on n'impose pas nécessairement la présence des nombres `1` à `9` sans répétition.
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050352.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050412.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050431.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050441.png" />
