@@ -92,6 +92,11 @@
 * Cette méthode permet de parcourir le tableau une seule fois.
 * La complexité est donc **O(n)** avec seulement quelques variables supplémentaires.
 
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 044654.png" />
+
+<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 043948.png" />
+
+
 # Exercice 7 — Élément majoritaire
 
 * Un élément majoritaire est une valeur qui apparaît **strictement plus de la moitié** du nombre total d'éléments.
